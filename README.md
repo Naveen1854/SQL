@@ -45,7 +45,7 @@ DATABASE
      Avg()
      Count()
 
-8 - SSub Query
+8 - Sub Query
    * Introduction to Sub Query
    * Working of Sub Query
    * Query Writing and Execution
@@ -54,51 +54,50 @@ DATABASE
      2. Multi Row Sub Query
    * Nested Sub Query.
 
+9 - Pseudo Columns
+  * Introduction on Pseudo Columns
+  * ROWID
+  * ROWNUM
+  * Working and Usage.
 
+10 - JOINS
+  * What Is Join?
+  * Types of Joins
+  * Cartesian Join
+  * Inner Join
+  * Outer Join
+  * Self-Join
+  * Queries and Examples.
 
-10- Pseudo Columns 
-   • Introduction on Pseudo Columns 
-   • ROWID
-   • ROWNUM
-   • Working and Usage.
+11 - Co- Related Sub Query
+  * Working and Examples
 
-11- JOINS
-   • What Is Join?
-   • Types of Joins.
-   • Cartesian Join
-   • Inner Join 
-   • Outer Join 
-   • Self-Join 
-   • Queries and Examples.
+12 - Data Definition Language (DDL)
+   * Create
+   * Rename
+   * Alter
+   *  Truncate
+   *  Drop
 
-12- Co- Related Sub Query 
-   • Working and Examples 
+13 - Data Manipulation Language (DML)
+  * Insert
+  * Update
+  * Delete
 
-13- Data Definition Language (DDL)
-   • Create 
-   • Rename 
-   • Alter 
-   • Truncate 
-   • Drop
- 
-14- Data Manipulation Language (DML)
-   • Insert 
-   • Update 
-   • Delete
- 
-15- Transaction Control Language (TCL)
-   • Commit
-   • Save point
-   • Rollback 
+14 - Transaction Control Language (TCL)
+  * Commit
+  * Save point
+  * Rollback
 
-16- Data Control Language (DCL)
-   • Grant 
-   • Revoke 
-17 - Normalization
-   • Introduction to Normalization 
-   • Types of Normal Forms 
-   • Examples.
+15 - Data Control Language (DCL)
+  * Grant
+  * Revoke
 
-18- E R Diagrams 
-   • Introduction to ERD
-   • Examples.
+16 - Normalization
+  * Introduction to Normalization
+  * Types of Normal Forms
+  * Examples.
+
+17 - E R Diagrams
+  * Introduction to ERD
+  * Examples.
